@@ -1,0 +1,7 @@
+Upload front end login
+Upload front end signup
+Upload front end home (1/2)
+Membuat front end home
+Membuat desain web
+Membuat desain logo
+Membuat front end tambah tempat
